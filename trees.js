@@ -19,8 +19,8 @@ class Tree{
 		request.onerror = function(e){
 			document.getElementById("infoAboutInsertTree").innerHTML= "võrguviga";
 		}
-		// Kui sul jookseb muul domeenil, muus väratis, siis see info tuleb siin vahetada:
-		request.open("POST", "http://puud.kalmer.focal.rog:2/put-5-into-database-get-data-return.php", true);
+		// Kui sul jookseb muus väratis või aliasena, siis see info tuleb siin vahetada:
+		request.open("POST", "http://" + window.location.hostname + ":2/put-5-into-database-get-data-return.php", true);
 		request.setRequestHeader('Content-Type', 'application/json');
 		let requestData = {
 				"batch":[{

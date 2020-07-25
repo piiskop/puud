@@ -14,7 +14,7 @@ Selles failis on lehe elemendid ehk tagasiside kast, millele järgnevad kaks nup
 ### trees.js
 See fail seob funktsiooni **insertTree** kummagi nupu klikkimise sündmusega. See funktsioon võtab sisendiks puu liigi tunnuse, antud juhul __1__ või __2__, ja saadab selle asünkroonselt PHP-failile. Kui vastus on käes, uuendab lõiku, milles kirjas, kui palju puid on märgitud.
 
-Kui sa paned asjanduse jooksma muule domeenile, muusse väratisse, siis märgitud real tuleb selles failis need muudatused sul teha.
+Kui sa paned asjanduse jooksma muusse väratisse või aliasena, siis märgitud real tuleb selles failis need muudatused sul teha.
 
 ### put-5-into-database-get-data-return.php
 Siin sisestatakse puu teave andmebaasi. Kui vastava puu kohta juba on kirje, suurendatakse selle kogust ühe võrra. Pärast loetakse andmebaasist välja, kui palju puid on märgitud ja saadetakse see info tagasi JS-failis olevale skriptile.
