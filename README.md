@@ -32,6 +32,8 @@ Paigaldatud peab olema PHP ja selle **apache2** tugi.
 
 Andmebaasi skript: **trees.sql**.
 
+Valmis lahendust näed toimivana minu [testserveril](http://puud.tennis24.ee:2/nupp.html). Kui käivitad oma serveril, siis lase kindlasti käima **nupp.html**!
+
 ## Epiloog
 See on kõigest baasnäide, mis hõlmab selle n-ö number 5 teekonda sinna ja tagasi. Kui see asi korralikult teha, siis ma ehitaksin mõndagi juurde:
 1. Andmebaasi struktuur tuleb läbi mõelda ja teostada.
