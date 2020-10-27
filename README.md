@@ -46,4 +46,4 @@ See on kõigest baasnäide, mis hõlmab selle n-ö number 5 teekonda sinna ja ta
 8. Ehitaksin juurde kõikide toimingute logimise.
 
 ## Kui palju aega kulus?
-Kuna ma polnud ammu veebiarendustega tegelenud, siis tegelikult kulus tunde, tegin seda vahelduvalt muude tegevustega mitme päeva kestel. Mul oli vaja välja otsida enda dokumentatsioon ja näited. Lisaks paigaldasin kogu vajaliku arendus- ja testvara enda arvutisse. Siis hakkasin tasapisi ehitama, alul keerulisemalt, mistõttu eksisteerivad need teised failid ka, aga siis otsustasin sulle sellise lihtsama näite teha kolme failiga.
+Kuna ma polnud ammu veebiarendustega tegelenud, siis tegelikult kulus tunde, tegin seda vahelduvalt muude tegevustega mitme päeva kestel. Mul oli vaja välja otsida enda dokumentatsioon ja näited. Lisaks paigaldasin kogu vajaliku arendus- ja testvara enda arvutisse. Siis hakkasin tasapisi ehitama, alul keerulisemalt, mistõttu eksisteerivad need teised failid ka, aga siis otsustasin sulle sellise lihtsama näite teha kolme failiga...
